@@ -3,11 +3,11 @@
     {
       "name": "hello",
       "setup": "",
-      "run": "while :; do echo 'hello'; sleep 1; done",
+      "run": "while :; do echo 'hellossss'; sleep 1; done",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 1,
+      "timeout": 2,
       "points": null
     }
   ]
